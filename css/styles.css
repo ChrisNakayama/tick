@@ -1,0 +1,10 @@
+.space{
+  min-width: 9vw;
+  min-height: 16vh;
+  margin: 1%;
+  border: 2px solid black;
+}
+#board{
+  width:75vw;
+  margin:auto;
+}
